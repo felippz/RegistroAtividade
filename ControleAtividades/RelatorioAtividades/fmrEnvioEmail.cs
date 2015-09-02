@@ -20,9 +20,7 @@ namespace RelatorioAtividades
         //Form1 RegAtividade = new Form1();
 
         //Variaveis da Classe
-        private string nomeUsuario = "luiz.felipe@deak.com.br";
-        private string senha = "Sabrina100207";
-        private string emailDestino; //"owlflee@gmail.com";
+        private string emailDestino;
         private string assunto;
         private string textoEmail;
         private string recuperaTexto;
