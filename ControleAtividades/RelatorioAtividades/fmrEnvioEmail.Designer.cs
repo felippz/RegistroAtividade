@@ -47,7 +47,7 @@
             this.groupBox1.Location = new System.Drawing.Point(12, 119);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(466, 180);
-            this.groupBox1.TabIndex = 2;
+            this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Texto do Email";
             // 
@@ -77,7 +77,7 @@
             this.groupBox3.Location = new System.Drawing.Point(12, 66);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(466, 47);
-            this.groupBox3.TabIndex = 10;
+            this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Assunto:";
             // 
@@ -94,7 +94,7 @@
             this.groupBox2.Location = new System.Drawing.Point(12, 12);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(466, 47);
-            this.groupBox2.TabIndex = 11;
+            this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Para:";
             // 
